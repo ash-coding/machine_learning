@@ -3,7 +3,6 @@
 .DS_Store
 inspector.py
 practice*
-
-# original data & DL model
 *.csv
 *.h5
+*.png
